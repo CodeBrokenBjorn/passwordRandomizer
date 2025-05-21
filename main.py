@@ -6,7 +6,6 @@ textlenght = 0
 new_index = "fsdagf"
 tempValue = []
 
-
     
 
 def main():
